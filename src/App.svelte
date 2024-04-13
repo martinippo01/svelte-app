@@ -4,7 +4,11 @@
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<p>
+		This is just a svelte hello world. <br>
+		This is <i>ippo</i> getting to know svelte.<br>
+		To see more projects (some real ones that have a purpose) visit <a href="https://ippo.com.ar/#projects" target="_blank">my projects portfolio.</a>
+	</p>
 </main>
 
 <style>
@@ -18,7 +22,7 @@
 	h1 {
 		color: #ff3e00;
 		text-transform: uppercase;
-		font-size: 4em;
+		font-size: 2em;
 		font-weight: 100;
 	}
 
